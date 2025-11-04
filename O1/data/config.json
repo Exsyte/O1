@@ -1,0 +1,55 @@
+{
+    "data_path": "C:/Valuebet/O1/data",
+    "cert_path": "C:/Valuebet/O1/certificates",
+    "credentials_path": "credentials.json",
+    "fuzzy_threshold": 80,
+    "common_filler_words": ["and", "or", "the", "a", "an", "v"],
+    "sport_event_type_ids": {
+      "football": "1",
+      "nba": "7522",
+      "nfl": "6423",
+      "nhl": "7524"
+    },
+    "market_name_to_types": {
+      "match odds": ["MATCH_ODDS"],
+      "both teams to score": ["BOTH_TEAMS_TO_SCORE"],
+      "match odds and both teams to score": ["MATCH_ODDS_AND_BTTS"],
+      "match odds and over/under 1.5 goals":["MATCH_ODDS_AND_OU_15"],
+      "match odds and over/under 2.5 goals":["MATCH_ODDS_AND_OU_25"],
+      "match odds and over/under 3.5 goals":["MATCH_ODDS_AND_OU_35"],
+
+  
+      "over/under 0.5 goals": ["OVER_UNDER_05"],
+      "over/under 1.5 goals": ["OVER_UNDER_15"],
+      "over/under 2.5 goals": ["OVER_UNDER_25"],
+      "over/under 3.5 goals": ["OVER_UNDER_35"],
+      "over/under 4.5 goals": ["OVER_UNDER_45"],
+      "over/under 5.5 goals": ["OVER_UNDER_55"],
+      "over/under 6.5 goals": ["OVER_UNDER_65"],
+      "over/under 7.5 goals": ["OVER_UNDER_75"],
+      "over/under 8.5 goals": ["OVER_UNDER_85"],
+  
+      "over/under 8.5 corners":["OVER_UNDER_85_CORNR"],
+      "over/under 10.5 corners":["OVER_UNDER_105_CORNR"],
+  
+      "correct score": ["CORRECT_SCORE"],
+  
+      "first goalscorer": ["FIRST_GOALSCORER"],
+      "anytime goalscorer": ["ANYTIME_GOALSCORER"],
+      "player to score 2 or more": ["TO_SCORE_2_OR_MORE"],
+      "team to score first": ["FIRST_TEAM_TO_SCORE"],
+      "shots on target": ["SHOTS_ON_TARGET"],
+      "player to assist": ["PLAYER_TO_ASSIST"],
+      "half-time result": ["HALF_TIME"],
+      "half-time/full-time": ["HALF_TIME_FULL_TIME"],
+      "win both halves": ["WIN_BOTH_HALVES"],
+  
+      "moneyline_nba": ["MATCH_ODDS"],
+      "moneyline_nfl": ["MATCH_ODDS"],
+      "moneyline_nhl": ["MONEY_LINE"],
+  
+      "anytime touchdown scorer": ["ANYTIME_TOUCHDOWN_SCORER"],
+      "first touchdown scorer": ["FIRST_TOUCHDOWN_SCORER"]
+    }
+  }
+  

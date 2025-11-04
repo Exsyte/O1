@@ -1,0 +1,315 @@
+{
+    "match odds": {
+        "aliases": [
+            "match odds",
+            "to win",
+            "full-time result",
+            "all to win",
+            "both to win"
+        ],
+        "sport": "football"
+    },
+    "both teams to score": {
+        "aliases": [
+            "both teams to score?",
+            "btts",
+            "both teams will score",
+            "both to score",
+            "both teams to score",
+            "all to score",
+            "btts in"
+        ],
+        "sport": "football"
+    },
+    "match odds and both teams to score": {
+        "aliases": [
+            "to win and btts",
+            "to win and both teams to score",
+            "both to win and btts in each match",
+            "match odds and both teams to score",
+            "both to win and btts in each match",
+            "btts to win",
+            "btts and to win",
+            "both to win and all 4 teams to score",
+            "both to win and btts"
+        ],
+        "sport": "football"
+    },
+    "match odds and over/under 1.5 goals": {
+        "aliases": [
+            "to win and over 1.5 goals",
+            "to win and over 1.5",
+            "to win and o1.5",
+            "to win and o1.5 goals",
+            "win and over 1.5 goals",
+            "win and o1.5 goals",
+            "win and over 1.5",
+            "match odds and over/under 1.5 goals"
+        ],
+        "sport": "football"
+    },
+    "match odds and over/under 2.5 goals": {
+        "aliases": [
+            "to win and over 2.5 goals",
+            "to win and over 2.5",
+            "to win and o2.5",
+            "to win and o2.5 goals",
+            "win and over 2.5 goals",
+            "win and o2.5 goals",
+            "win and over 2.5",
+            "match odds and over/under 2.5 goals"
+        ],
+        "sport": "football"
+    },
+    "match odds and over/under 3.5 goals": {
+        "aliases": [
+            "to win and over 3.5 goals",
+            "to win and over 3.5",
+            "to win and o3.5",
+            "to win and o3.5 goals",
+            "win and over 3.5 goals",
+            "win and o3.5 goals",
+            "win and over 3.5",
+            "match odds and over/under 3.5 goals"
+        ],
+        "sport": "football"
+    },
+    "over/under 0.5 goals": {
+        "aliases": [
+            "over/under 0.5 goals",
+            "over 0.5 goals",
+            "o0.5 goals",
+            "under 0.5 goals",
+            "u0.5 goals",
+            "ou0.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 1.5 goals": {
+        "aliases": [
+            "over/under 1.5 goals",
+            "over 1.5 goals",
+            "o1.5 goals",
+            "under 1.5 goals",
+            "u1.5 goals",
+            "ou1.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 2.5 goals": {
+        "aliases": [
+            "over/under 2.5 goals",
+            "over 2.5 goals",
+            "o2.5 goals",
+            "under 2.5 goals",
+            "u2.5 goals",
+            "ou2.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 3.5 goals": {
+        "aliases": [
+            "over/under 3.5 goals",
+            "over 3.5 goals",
+            "o3.5 goals",
+            "under 3.5 goals",
+            "u3.5 goals",
+            "ou3.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 4.5 goals": {
+        "aliases": [
+            "over/under 4.5 goals",
+            "over 4.5 goals",
+            "o4.5 goals",
+            "under 4.5 goals",
+            "u4.5 goals",
+            "ou4.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 5.5 goals": {
+        "aliases": [
+            "over/under 5.5 goals",
+            "over 5.5 goals",
+            "o5.5 goals",
+            "under 5.5 goals",
+            "u5.5 goals",
+            "ou5.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 6.5 goals": {
+        "aliases": [
+            "over/under 6.5 goals",
+            "over 6.5 goals",
+            "o6.5 goals",
+            "under 6.5 goals",
+            "u6.5 goals",
+            "ou6.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 7.5 goals": {
+        "aliases": [
+            "over/under 7.5 goals",
+            "over 7.5 goals",
+            "o7.5 goals",
+            "under 7.5 goals",
+            "u7.5 goals",
+            "ou7.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 8.5 goals": {
+        "aliases": [
+            "over/under 8.5 goals",
+            "over 8.5 goals",
+            "o8.5 goals",
+            "under 8.5 goals",
+            "u8.5 goals",
+            "ou8.5"
+        ],
+        "sport": "football"
+    },
+    "over/under 8.5 corners": {
+        "aliases": [
+            "over/under 8.5 corners",
+            "over 8.5 corners",
+            "o8.5 corners",
+            "under 8.5 corners",
+            "u8.5 corners",
+            "ou8.5 corners"
+        ],
+        "sport": "football"
+    },
+    "over/under 10.5 corners": {
+        "aliases": [
+            "over/under 10.5 corners",
+            "over 10.5 corners",
+            "o10.5 corners",
+            "under 10.5 corners",
+            "u10.5 corners",
+            "ou10.5 corners"
+        ],
+        "sport": "football"
+    },
+    "correct score": {
+        "aliases": [
+            "correct score",
+            "exact score",
+            "scoreline",
+            "cs"
+        ],
+        "sport": "football"
+    },
+    "to win to nil": {
+        "aliases": [
+            "to win to nil",
+            "win to nil",
+            "win without conceding",
+            "shutout win"
+        ],
+        "sport": "football"
+    },
+    "first goalscorer": {
+        "aliases": [
+            "first goalscorer",
+            "first goal scorer",
+            "1st goal scorer",
+            "fgs"
+        ],
+        "sport": "football"
+    },
+    "anytime goalscorer": {
+        "aliases": [
+            "anytime goalscorer",
+            "ags",
+            "to score anytime",
+            "score anytime"
+        ],
+        "sport": "football"
+    },
+    "player to score 2 or more": {
+        "aliases": [
+            "to score 2 or more",
+            "player brace",
+            "2+ goals by player",
+            "player to score 2 or more"
+        ],
+        "sport": "football"
+    },
+    "half-time result": {
+        "aliases": [
+            "half-time result",
+            "ht result",
+            "first half result",
+            "half time",
+            "to be winning at halftime",
+            "ht",
+            "to be winning at half-time"
+        ],
+        "sport": "football"
+    },
+    "half-time/full-time": {
+        "aliases": [
+            "half-time/full-time",
+            "htft",
+            "halftime and fulltime result",
+            "ht ft"
+        ],
+        "sport": "football"
+    },
+    "win both halves": {
+        "aliases": [
+            "win both halves",
+            "wbh",
+            "to win both halves"
+        ],
+        "sport": "football"
+    },
+    "anytime touchdown scorer": {
+        "aliases": [
+            "anytime touchdown scorer",
+            "atd"
+        ],
+        "sport": "nfl"
+    },
+    "first touchdown scorer": {
+        "aliases": [
+            "first touchdown scorer",
+            "1st td scorer",
+            "first td",
+            "ftd"
+        ],
+        "sport": "nfl"
+    },
+    "moneyline_nhl": {
+        "aliases": [
+            "to win",
+            "win",
+            "all to win",
+            "moneyline_nhl"
+        ],
+        "sport": "nhl"
+    },
+    "moneyline_nba": {
+        "aliases": [
+            "to win",
+            "win",
+            "all to win",
+            "moneyline_nba"
+        ],
+        "sport": "nba"
+    },
+    "moneyline_nfl": {
+        "aliases": [
+            "to win",
+            "win",
+            "all to win",
+            "moneyline_nfl"
+        ],
+        "sport": "nfl"
+    }
+}

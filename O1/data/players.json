@@ -1,0 +1,24 @@
+{
+    "lionel messi": {
+        "sport": "football",
+        "team": "inter miami",
+        "aliases": [
+            "messi",
+            "leo messi"
+        ]
+    },
+    "kylian mbappe": {
+        "sport": "football",
+        "team": "real madrid",
+        "aliases": [
+            "mbappe"
+        ]
+    },
+    "mohamed salah": {
+        "sport": "football",
+        "team": "liverpool",
+        "aliases": [
+            "salah"
+        ]
+    }
+}
